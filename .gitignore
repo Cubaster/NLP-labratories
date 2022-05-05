@@ -1,0 +1,6 @@
+*.txt
+*.png
+*.csv
+*.zip
+*.ipynb_checkpoints
+glove.6B
